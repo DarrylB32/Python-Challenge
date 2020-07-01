@@ -1,0 +1,6 @@
+
+    Total Months:86
+    Total:38382578
+    Average Change:446309.0465116279
+    Greatest Increase:1170593 happened on Feb-2012
+    Greatest Decrease:-1196225 happened on Sep-2013
