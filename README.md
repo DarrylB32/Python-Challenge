@@ -46,7 +46,7 @@ Winner: Khan
 * Jupter Notebook
 
 ### User Instructions
-* Clone the repository: git clone https://github.com/DarrylB32/Python-Financial_and_Election_Analysis 
+* Clone the repository: git clone https://github.com/DarrylB32/Python-Financial_and_Election_Analysis.git  
 * Open and execute [Financial Analysis Main](Financial_Analysis/Main.py) file.
 * Open and execute [Election Analysis Main](Election_Analysis/Main.py) file.
  
